@@ -1,3 +1,5 @@
+'it greets client by user input of name, details of due date, and value of an invoice'
+
 NomeCliente = input("Digite o nome do cliente:")
 DiaVencimento = input("Digite o dia de vencimento:")
 MesVencimento = input("Digite o mês de vencimento:")
