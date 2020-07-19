@@ -1,3 +1,5 @@
+'it checks if 3 int inputs were done in crescent order'
+
 NumInt1 = int(input("Primeiro Numero: "))
 NumInt2 = int(input("Segundo Numero: "))
 NumInt3 = int(input("Terceiro Numero: "))
