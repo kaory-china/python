@@ -1,3 +1,5 @@
+'it checks if two points in a cartesian is close or far from each other'
+
 import math
 CoordenadaX1 = float(input("Coordenada x1:"))
 CoordenadaY1 = float(input("Coordenada y1:"))
