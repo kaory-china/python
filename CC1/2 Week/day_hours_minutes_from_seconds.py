@@ -1,3 +1,5 @@
+'it calculates days, hours, minutes and seconds from user int input of seconds'
+
 NumeroSegundos = int(input("Por favor, entre com o número de segundos que deseja converter:"))
 Dias = NumeroSegundos // 86400
 Horas = (NumeroSegundos % 86400) // 3600
