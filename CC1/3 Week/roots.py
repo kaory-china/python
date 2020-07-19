@@ -1,3 +1,5 @@
+'it receives 3 float inputs and calculates roots'
+
 import math
 ParametroA = float(input("Digite o parâmetro A: "))
 ParametroB = float(input("Digite o parâmetro B: "))
